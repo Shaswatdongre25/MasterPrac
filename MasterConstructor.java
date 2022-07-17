@@ -82,7 +82,7 @@ class A {
  } */
 
 
- class circle{
+/*  class circle{
     int radius;
 
     static float pie = 3.14f;
@@ -103,9 +103,4 @@ class A {
 
     }
  }
-
-
-
-
-
- 
+ */
