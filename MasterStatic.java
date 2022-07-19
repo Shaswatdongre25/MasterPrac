@@ -1,4 +1,3 @@
-import javax.naming.directory.SchemaViolationException;
 
 /* class Student{
     String name;
