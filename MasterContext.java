@@ -40,7 +40,7 @@
 } */
 
 
-class A{
+/* class A{
     static char w = 'E';
 
     void pro(){
@@ -51,4 +51,26 @@ class A{
         x.pro();
 
     }
-}
+} */
+
+
+/* class A {
+
+    void pro(){
+
+        info();
+    } 
+
+    void info(){
+
+        System.out.println("This is inside info!!");
+
+    }
+
+    public static void main(String[] args){
+        
+        A x = new A();
+        x.pro();
+
+    }
+} */
