@@ -49,3 +49,50 @@ class B{
 
 //=============================================================================
 
+
+
+
+/* //3: WAP to demonstrate HAS-A relationship
+
+class Student
+{
+    public static void main(String[] args)
+    {
+        pen x = new pen();
+        x.write();
+    }
+}
+
+class pen
+{
+    void write()
+    {
+        System.out.println("This is write method");
+    }
+} */
+
+
+
+
+
+
+/* //4:WAP to demonstrate IS-A relationship
+
+class Student extends pen
+{
+    public static void main(String[] args)
+    {
+        Student x = new Student();
+        x.write();
+    }
+}
+
+class pen
+{
+    void write()
+    {
+        System.out.println("This is inside write method");
+    }
+} */
+
+
