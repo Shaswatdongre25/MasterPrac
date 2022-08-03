@@ -1,8 +1,13 @@
 interface C{
     void pro();
-    void info():
+    void info();
 }
 
-class A implements X{
-    
+class A implements C{
+   public void pro(){
+
+    }
+  public  void info(){
+
+    }
 }
