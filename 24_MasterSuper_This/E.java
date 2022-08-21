@@ -27,3 +27,4 @@ class B extends A {
         x.pro();
     }
 }
+
