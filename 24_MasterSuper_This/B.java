@@ -1,9 +1,7 @@
 class A {
     int y = 1000;
 
-    {
-        System.out.println(y);
-    }
+    {System.out.println(y);}
     
     A() {
         // super();
