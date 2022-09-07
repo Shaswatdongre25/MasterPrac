@@ -4,7 +4,7 @@ class A{
         String name2= "umesh"; */
 
         String name1= new String("umesh");
-        String name2= "umesh";
+        String name2= name1;
 
 
 
